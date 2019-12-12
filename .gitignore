@@ -1,0 +1,10 @@
+/*
+!/src
+/src/*
+!/src/main
+/src/main/*
+!/src/main/java
+!/src/main/resources
+!/src/main/webapp
+!build.gradle
+!.gitignore
