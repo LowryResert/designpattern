@@ -1,7 +1,7 @@
-package strategy.simulator;
+package strategy.duck.simulator;
 
-import strategy.Duck;
-import strategy.MallardDuck;
+import strategy.duck.Duck;
+import strategy.duck.MallardDuck;
 
 public class MallardDuckSimulator {
     public static void main(String[] args) {

@@ -1,6 +1,6 @@
-package strategy;
+package strategy.duck;
 
-import strategy.behavior.QuackBehavior;
+import strategy.duck.behavior.QuackBehavior;
 
 public class DuckCall {
 
